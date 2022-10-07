@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ricky Adriell Cutura</h1>
 <h3 align="center">A passionate software engineering student based on London</h3>
 
-- 🔭 I’m currently working on **real-time-forum**
+- 🔭 I’m currently working on **social-network**
 
-- 🌱 I’m currently learning **GoApi, JavaScript and WebSocket**
+- 🌱 I’m currently learning **React, Sql migration, WebSocket**
 
 - 💬 Ask me about **GoLang, JavaScript and SQL**
 
