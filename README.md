@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **social-network**
 
-- 🌱 I’m currently learning **React, Sql migration, WebSocket**
+- 🌱 I’m currently learning **GoLang, JavaScript, Rust**
 
-- 💬 Ask me about **GoLang, JavaScript and SQL**
+- 💬 Ask me about **GoLang, SQL, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **culturarickyadriell@gmail.com**
 
