@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GoLang, JavaScript, Rust**
 
-- 💬 Ask me about **GoLang, SQL, JavaScript, HTML, CSS**
+- 💬 Ask me about **GoLang, SQL, Docker, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **culturarickyadriell@gmail.com**
 
