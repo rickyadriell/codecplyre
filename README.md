@@ -26,6 +26,3 @@
 <div style="display: flex;">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecplyre&" alt="codecplyre" /></p>
 </div>
-<div style="display: flex;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecplyre&show_icons=true&locale=en&layout=compact" alt="codecplyre" /></p>
-</div>
