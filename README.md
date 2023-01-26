@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricky Adriell Cutura</h1>
 <h3 align="center">A passionate software engineering student based on London</h3>
 
-- 🔭 I’m currently working on **social-network**
+- 🔭 I’m currently working on **wget clone**
 
 - 🌱 I’m currently learning **GoLang, JavaScript, Rust**
 
