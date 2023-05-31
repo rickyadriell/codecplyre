@@ -3,11 +3,9 @@
     A passionate Full-Stack Developer based on London
 </h3>
 
-- 🔭 I’m currently working on **wget clone**
+- 🔭 I’m currently working on **shell clone** in Rust
 
-- 🌱 I’m currently learning **GoLang, JavaScript, Rust**
-
-- 💬 Ask me about **GoLang, SQL, Docker, JavaScript, HTML, CSS**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **culturarickyadriell@gmail.com**
 
