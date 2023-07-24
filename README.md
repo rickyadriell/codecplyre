@@ -1,6 +1,5 @@
-# 💫 About Me:
+# 💫 Ricky Adriell
 📫 How to reach me **culturarickyadriell@gmail.com**
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ricky-adriell/) 
