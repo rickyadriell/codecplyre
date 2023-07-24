@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricky Adriell Cutura</h1>
 <h3 align="center">
-    A passionate Full-Stack Developer based on London
+    Software Engineer
 </h3>
-
-- 🔭 I’m currently working on **shell clone** in Rust
-
-- 🌱 I’m currently learning **Rust**
-
 - 📫 How to reach me **culturarickyadriell@gmail.com**
 
 ## My Skill Set
