@@ -2,6 +2,7 @@
 📫 How to reach me **culturarickyadriell@gmail.com**
 
 ⚙️ [**rickyadriell.com**](rickyadriell.com)
+
 🛠️[**Kazi**](kazihub.co)
 
 ## 🌐 Socials:
