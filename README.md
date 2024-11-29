@@ -1,5 +1,5 @@
 # 💫 Ricky Adriell
-📫 How to reach me **culturarickyadriell@gmail.com**
+📫 How to reach me **rickyadriell@gmail.com**
 
 ⚙️ [**rickyadriell.com**](https://rickyadriell.com)
 
