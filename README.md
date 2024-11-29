@@ -1,7 +1,7 @@
 # 💫 Ricky Adriell
 📫 How to reach me **culturarickyadriell@gmail.com**
 
-⚙️ [**rickyadriell.com**](rickyadriell.com)
+⚙️ [**rickyadriell.com**](https://rickyadriell.com)
 
 🛠️[**Kazi**](https://kazihub.co)
 
