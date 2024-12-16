@@ -8,6 +8,5 @@
 ## Project
 [**Kazihub**](https://kazihub.co)
 - Enhance Your Job Search With a suite of tools to support you every step of the way
-
-
-
+[**01-Founders](https://github.com/rickyadriell/01-founder-projects)
+- A unique coding bootcamp without teachers, where we learn collaboratively by building software solutions. The bootcamp have a community of software developers and aspiring developers, offering opportunities to collaborate with professionals, including engineers from Peloton, Snyk, and M&S.
