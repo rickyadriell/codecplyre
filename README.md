@@ -1,5 +1,5 @@
 # 🚗 🌍 💻 Ricky Adriell
-📫 How to reach me **rickyadriell@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/rickyadriell) 
+📫 Reach me at **rickyadriell@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/rickyadriell) 
 
 ## Project
 [**Kazihub**](https://kazihub.co)
